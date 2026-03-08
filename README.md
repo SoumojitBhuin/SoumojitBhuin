@@ -2,7 +2,8 @@
   <h1>Hi there, I'm Soumojit 👋</h1>
   <p><b>Backend & AI Developer | B.Tech IT Undergraduate</b></p>
 </div>
-# 💫 About Me:
+
+## 💫 About Me:
 
 
 <br/>
