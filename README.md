@@ -7,21 +7,20 @@
 ## 💫 About Me:
 ```json
 {
-  "specialization": "Backend architecture and Al integration [cite: 9]",
+  "specialization": "Backend architecture and Al integration ",
   "currentlyWorkingOn": [
-    "CivicResolve | Al-Powered Civic & Disaster Management Platform [cite: 70]",
-    "Athlete Connection App (in progress) building with Flutter [cite: 89, 90]"
+    "CivicResolve | Al-Powered Civic & Disaster Management Platform",
+    "Athlete Connection App (in progress) building with Flutter"
   ],
-  "lookingToCollaborateOn": "Deploying scalable web applications and impactful, future-ready software solutions [cite: 10, 11]",
-  "lookingForHelpWith": "Machine Learning (Basics) [cite: 55]",
-  "currentlyLearning": "Multi-Platform app development with Flutter [cite: 90]",
+  "lookingToCollaborateOn": "Deploying scalable web applications and impactful, future-ready software solutions",
+  "lookingForHelpWith": "Machine Learning (Basics)",
+  "currentlyLearning": "Multi-Platform app development with Flutter ",
   "askMeAbout": [
-    "Python (Advanced) [cite: 59]",
-    "Flask [cite: 52]",
-    "Backend Architecture [cite: 9]",
-    "Al Integration [cite: 9]"
-  ],
-  "funFact": "I serve as the Web Developer - Lead for Google Developers Group on Campus NEHU [cite: 44, 45] and the Technical Team Lead at Codemate College Tech Community[cite: 23, 24]!"
+    "Python (Advanced)",
+    "Flask",
+    "Backend Architecture",
+    "Al Integration "
+  ]
 }
 ```
 ---
