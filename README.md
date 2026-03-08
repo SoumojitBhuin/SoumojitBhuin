@@ -3,11 +3,8 @@
   <p><b>Backend & AI Developer | B.Tech IT Undergraduate</b></p>
 </div>
 
+---
 ## 💫 About Me:
-
-
-<br/>
-
 ```json
 {
   "specialization": "Backend architecture and Al integration [cite: 9]",
@@ -27,15 +24,54 @@
   "funFact": "I serve as the Web Developer - Lead for Google Developers Group on Campus NEHU [cite: 44, 45] and the Technical Team Lead at Codemate College Tech Community[cite: 23, 24]!"
 }
 ```
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/soumojitbhuin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumojit-bhuin-313328345/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BhuinSoumojit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumojitbhuin2004@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+---
+## 💻 Tech Stack:
+<p align="left" >
+  <img src="https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-151515?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C++-151515?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-151515?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <br/>
+  <img src="https://img.shields.io/badge/Flask-151515?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-151515?style=flat-square&logo=django&logoColor=red" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-151515?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-151515?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+  <br/>
+  <img src="https://img.shields.io/badge/Firebase-151515?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-151515?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Google_Cloud-151515?style=flat-square&logo=google-cloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-151515?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SoumojitBhuin&icon=10&color=11)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com?user=SoumojitBhuin&theme=codeSTACKr&hide&border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=SoumojitBhuin&theme=tokyo-night&hide&border=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## 🌐 Socials:
+<p align="left">
+  <a href="https://www.linkedin.com/in/soumojit-bhuin-313328345" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:soumojitbhuin2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23077B5.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=White&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Thanks+for+checking+out+my+work!;Let's+connect+and+build+together!" alt="Thanks for visiting" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Animation" />
+</p>
+
+---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SoumojitBhuin)
